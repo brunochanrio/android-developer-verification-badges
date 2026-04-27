@@ -40,11 +40,11 @@ Copy and paste the following code into your Markdown file:
 
 ### Verified Badge
 ```markdown
-<img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_verified_app.png" width="450" alt="Application verified by its developer">
+<img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_verified_app.png" width="320" alt="Application verified by its developer">
 ```
 ### Unverified Badge
 ```markdown
-<img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_unverified_app.png" width="450" alt="Application unverified by its developer">
+<img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_unverified_app.png" width="320" alt="Application unverified by its developer">
 ```
 
 ## 🎨 Asset Details
