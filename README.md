@@ -34,30 +34,17 @@ On Google-certified Android devices, the system now performs real-time checks du
 **Compatibility Note:**
 This verification infrastructure is being deployed to the majority of the Android install base. However, **devices running Android 9 (Pie) or older versions will not receive this update.** The verification checks are exclusively targeted at modern, Google-certified environments from Android 10 onwards.
 
-### Modern Development Standards
-To ensure full compatibility with modern Google-certified hardware, it is highly recommended that developers:
-* **Target 64-bit Architectures:** Native code should be compiled for `arm64-v8a` or `x86_64`. Support for legacy 32-bit (`armeabi-v7a`) is being phased out in modern certified devices.
-* **Opt-out of Obsolete Hardware Support:** New applications should be optimized for modern SoC performance to avoid system-level performance warnings.
-
 ## 💻 How to use
 
 Copy and paste the following code into your Markdown file:
 
 ### Verified Badge
 ```markdown
-<p align="center">
-  <a href="URL_TO_YOUR_PROJECT">
-    <img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/YOUR_REPO/main/android_verified_app.png" width="450" alt="Application verified by its developer">
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_verified_app.png" width="450" alt="Application verified by its developer">
 ```
 ### Unverified Badge
 ```markdown
-<p align="center">
-  <a href="URL_TO_YOUR_PROJECT">
-    <img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_unverified_app.png" width="450" alt="Application unverified by its developer">
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_unverified_app.png" width="450" alt="Application unverified by its developer">
 ```
 
 ## 🎨 Asset Details
