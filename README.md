@@ -15,11 +15,11 @@ These badges are designed for use in:
 
 ### 1. Application Verified by its Developer
 Use this badge if your APK is signed with a certificate registered in the Android Developer Console and your identity has been verified.
-![Verified Badge](https://github.com/brunochanrio/android-developer-verification-badges/blob/main/android_verified_app.png?raw=true)
+<img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_verified_app.png" width="320" alt="Application verified by its developer">
 
 ### 2. Application Unverified by its Developer
 Use this badge if the project is in a transitional state or if the developer has not yet completed the verification process.
-![Unverified Badge](https://github.com/brunochanrio/android-developer-verification-badges/blob/main/android_unverified_app.png?raw=true)
+<img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_unverified_app.png" width="320" alt="Application unverified by its developer">
 
 ## 🛠️ Technical Context
 
