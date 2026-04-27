@@ -5,8 +5,8 @@ plugins:
 title: Android Developer Verification Badges
 description: A set of high-quality, 3D-rendered badges for Android developers to display the verification status of their APKs
 author: Bruno-chanrio
-logo: assets/DangoPlayerUni_Logo.png
-mobilelogo: assets/DangoPlayerUni_Icon.png
+logo: assets/android.png
+mobilelogo: assets/android.png
 keywords: "Android, Android Developer, Android Developers, Android Developer Verification, Android Developer Console, Google, Google Play, Google Play Console, Google Play Protect"
 
 
