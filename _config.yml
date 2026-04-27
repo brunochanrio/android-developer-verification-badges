@@ -1,0 +1,51 @@
+remote_theme: brunochanrio/material-jekyll-chanrio@2026.01.24
+plugins:
+- jekyll-remote-theme
+
+title: Android Developer Verification Badges
+description: A set of high-quality, 3D-rendered badges for Android developers to display the verification status of their APKs
+author: Bruno-chanrio
+keywords: "Android, Android Developer, Android Developers, Android Developer Verification, Android Developer Console, Google, Google Play, Google Play Console"
+
+
+
+baseurl: "/android-developer-verification-badges"
+color: "#8CDEAD"
+accentColor: green
+themeColor: green
+fixedNav: 'true' # true or false
+developedby: true
+
+repo: "https://github.com/brunochanrio/android-developer-verification-badges"
+github_user: "brunochanrio"
+github_repo: "android-developer-verification-badges"
+
+permalink: /:year/:title/
+markdown: kramdown
+exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path
+
+# Defaults
+defaults:
+  - scope:
+      path: "_docs"
+      type: "docs"
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "posts"
+      type: "posts"
+    values:
+      layout: "post"
