@@ -5,8 +5,11 @@ description: A set of high-quality, 3D-rendered badges for Android developers to
 permalink: /
 ---
 # Android Developer Verification Badges
+<img alt='Android Developer Verification Badges Logo' width='700' src='https://brunochanrio.github.io/android-developer-verification-badges/assets/android-developer-verification-badges-logo.png'/>
 
-A set of high-quality, 3D-rendered badges for Android developers to display the verification status of their APKs. As Google strengthens the security of the Android ecosystem, these badges help users identify if an application's signature has been verified through the [**Android Developer Verification**](https://developer.android.com/developer-verification) program.
+A set of high-quality, 3D-rendered badges for Android developers to display the verification status of their APKs
+
+As Google strengthens the security of the Android ecosystem, these badges help users identify if an application's signature has been verified through the [**Android Developer Verification**](https://developer.android.com/developer-verification) program.
 
 ## 🚀 Overview
 
