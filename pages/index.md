@@ -6,7 +6,7 @@ permalink: /
 ---
 # Android Developer Verification Badges
 
-A set of high-quality, 3D-rendered badges for Android developers to display the verification status of their APKs. As Google strengthens the security of the Android ecosystem, these badges help users identify if an application's signature has been verified through the **Android Developer Verification** program.
+A set of high-quality, 3D-rendered badges for Android developers to display the verification status of their APKs. As Google strengthens the security of the Android ecosystem, these badges help users identify if an application's signature has been verified through the [**Android Developer Verification**](https://developer.android.com/developer-verification) program.
 
 ## 🚀 Overview
 
@@ -59,5 +59,3 @@ Copy and paste the following code into your Markdown file:
 - **Resolution:** 1489 x 526 px (Optimized for HiDPI/Retina displays).
 - **Format:** PNG with transparency (3D Bugdroid render).
 - **Design:** Consistent with modern Android "Pill" UI design language.
-
-Created by Bruno-chanrio
